@@ -4,20 +4,20 @@ Awesome JavaScript technology list of full stack e-commerce system
 
 ## Server
 
-- [ubuntu](https://ubuntu.com/)
-- [docker](https://www.docker.com/)
-- [nginx](http://nginx.org/)
-- [nodejs](https://nodejs.org/en/)
-- [pm2](https://pm2.io/)
+- [ubuntu](https://ubuntu.com/) Web server system.
+- [docker](https://www.docker.com/) Web server containers.
+- [nginx](http://nginx.org/) Web server.
+- [nodejs](https://nodejs.org/en/) Web server environment.
+- [pm2](https://pm2.io/) Advanced, production process manager for node.js.
 
 ## Backend
 
-- [Nest.js](https://nestjs.com/)
-- [Swagger UI](https://swagger.io/)
+- [Nest.js](https://nestjs.com/) A progressive Node.js framework.
+- [Swagger UI](https://swagger.io/) API Development for Everyone.
 
-- [casbin](https://casbin.org/)
-- [jwt](https://jwt.io/)
-- [passportjs](http://www.passportjs.org/)
+- [casbin](https://casbin.org/) An authorization library that supports access control models.
+- [jwt](https://jwt.io/) JWT.IO allows you to decode, verify and generate JWT.
+- [passportjs](http://www.passportjs.org/) Simple, unobtrusive authentication for Node.js
 
 - [node-schedule](https://github.com/node-schedule/node-schedule)
 - [node-cron](https://github.com/kelektiv/node-cron)
